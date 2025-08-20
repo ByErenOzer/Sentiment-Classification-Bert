@@ -1,0 +1,54 @@
+# Model files (too large for GitHub)
+classification_and_preprocess_code/sms_spam_detection/best_sms_model/
+classification_and_preprocess_code/sms_spam_detection/best_sms_tokenizer/
+
+# Large datasets
+*.csv
+*.xlsx
+*.xls
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+myenv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Large model files
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.h5
+*.pkl
+*.pickle
